@@ -7,3 +7,4 @@ git remote add origin git@github.com:Rasi04/FlatSatChallenge.git
 git push -u origin main
 
 useful git commands
+Main to branch
